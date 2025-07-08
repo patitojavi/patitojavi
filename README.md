@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, soy Mojojos</h1>
+<h1 align="center">Hola 👋, soy Patricio Benavides</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Estudiante+de+Terapia+Ocupacional;Amante+de+la+tecnolog%C3%ADa+y+la+salud" alt="Typing SVG" />
 </p>
@@ -7,8 +7,8 @@
 ---
 
 ### 🚀 Sobre mí
-🎓 Estudiante de Terapia Ocupacional y entusiasta de la informática  
-💻 Me encanta desarrollar proyectos con **React**, **Node.js**, y **MongoDB**  
+🎓 Estudiante de Ingeniería Civil en Informática
+💻 Estoy aprendiendo a desarrollar proyectos en:  **JavaScript**, **TypeScript** y **Python**.
 📚 Siempre aprendiendo algo nuevo...
 
 ---
@@ -33,11 +33,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
 
-### 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="langs" height="165">
-</p>
