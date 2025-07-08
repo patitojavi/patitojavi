@@ -1,15 +1,19 @@
 
 <h1 align="center">Hola 👋, soy Patricio Benavides</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Estudiante+de+Ing+Civil+Informática;Amante+de+la+tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Estudiante+de+Ing.+Civil+Informática;Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Sobre mí
-🎓 Estudiante de Ingeniería Civil en Informática
-💻 Estoy aprendiendo a desarrollar proyectos en:  **JavaScript**, **TypeScript** y **Python**.
-📚 Siempre aprendiendo algo nuevo...
+
+🎓 Estudiante de Ingeniería Civil en Informática  
+💻 Apasionado por el desarrollo web y de software, actualmente aprendiendo tecnologías como **JavaScript**, **TypeScript** y **Python**  
+📚 Siempre en busca de nuevos desafíos y conocimientos
+
+---
 
 ---
 
