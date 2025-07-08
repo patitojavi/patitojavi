@@ -19,6 +19,13 @@
 
 ---
 
+
+### 🧭 Portafolio
+
+🔗 Puedes visitar mi portafolio aquí 👉 [patitojavi.vercel.app](https://patitojavi.vercel.app)
+
+---
+
 ### 🌐 Conéctate conmigo
 
 <p align="center">
