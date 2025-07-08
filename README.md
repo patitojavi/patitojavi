@@ -37,4 +37,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+---
+
+### 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patitojavi&show_icons=true&theme=radical" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patitojavi&layout=compact&theme=radical" alt="langs" height="165">
+</p>
 
